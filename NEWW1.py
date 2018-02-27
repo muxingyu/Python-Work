@@ -23,3 +23,8 @@ class abc(QMainWindow, Ui_MainWindow):
         """
         super(abc, self).__init__(parent)
         self.setupUi(self)
+
+
+#text
+
+#text
